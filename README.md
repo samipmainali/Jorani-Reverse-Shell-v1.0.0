@@ -11,9 +11,6 @@
 - [Description](#description)
 - [Vulnerable Versions](#vulnerable-versions)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technical Details](#technical-details)
-- [References](#references)
 
 ## Description
 This exploit targets a critical vulnerability chain in Jorani v1.0.0 that combines:
