@@ -2,7 +2,6 @@
 
 **Unrestricted File Upload → Remote Code Execution Exploit**
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 
 **Disclaimer**: This tool is for educational and authorized testing purposes only. Misuse of this software is prohibited. The developers assume no liability for damage caused through improper use.
