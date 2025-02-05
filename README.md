@@ -33,7 +33,7 @@ Other potentially affected versions (untested):
 ## Installation
 1. Clone repository:
 bash
-git clone https://github.com/samipmainali/Jorani-Reverse_shell-v1.0.0.git
+git clone https://github.com/samipmainali/Jorani-Reverse-Shell-v1.0.0.git
 cd Jorani-Reverse_shell-v1.0.0
 
 Requirements:
